@@ -1,0 +1,10 @@
+[package]
+name = "sysfs-pci-list"
+version = "0.1.0"
+authors = ["Evgeny Rozaliev <rozaliev@gmail.com>"]
+edition = "2018"
+
+
+[dependencies]
+sysfs-class = "0.1.2"
+structopt = "0.3.11"
